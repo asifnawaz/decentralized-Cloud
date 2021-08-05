@@ -87,7 +87,3 @@ $ truffle migrate --network matic
 $ cd client && npm start
 ```
  
-## Developed By 🏁
-
-[**Abhishek Vispute**](https://github.com/abhishekvispute/)
-
